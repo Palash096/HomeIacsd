@@ -1,0 +1,63 @@
+.App {
+  text-align: center;
+}
+
+.maindiv{
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding: 90px 0 90px 0;
+  background-color: grey;
+}
+
+.subdiv{
+  display: flex;
+  justify-content: center;
+  height: 550px;
+  width: 30%;
+  box-shadow: 8px 10px 8px red;
+  background-color: white;
+  border-radius: 50px;
+}
+
+.img{
+  padding-top: 20px;
+  justify-content: center;
+  display: flex;
+}
+
+.img-container{
+  border-radius: 50%;
+  align-items: center;
+  display: flex;
+  width: 120px;
+  height: 120px
+}
+
+.profile{
+  width: 120px;
+  height: 120px
+}
+
+.login{
+  color: red;
+  padding: 15px 0 15px 0;
+}
+
+.desc{
+    font-size: 20px;
+}
+
+.textbox{
+  border-radius: 13px;
+  height: 25px;
+}
+
+#btn{
+  width: 100%;
+  color: white;
+  padding: 10px;
+  background-color: red;
+  border-radius: 20px;
+  font-size: 20px;
+}
