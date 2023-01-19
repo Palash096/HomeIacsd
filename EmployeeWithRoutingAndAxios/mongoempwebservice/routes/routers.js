@@ -99,5 +99,6 @@ router.delete("/employee/:empid",function(req,resp){
     });
 });
 
+// get, post, put, patch are all examples of rest api
 
 module.exports=router;
